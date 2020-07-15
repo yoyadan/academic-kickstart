@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Candidate of Architecture and Urban Planning
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Shandong University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
